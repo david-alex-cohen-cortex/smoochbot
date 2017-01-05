@@ -12,6 +12,7 @@
     "request": "^2.60.0",
     "smooch-core": "0.0.10"
   },
+  "main": "lib/Botkit.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
